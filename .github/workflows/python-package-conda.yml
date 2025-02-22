@@ -1,7 +1,0 @@
-#This is a text
-name = (input('hello please type"hello"')
-if name==(''):
-        print('type "hello"')
-else:
-        print (name)
-
